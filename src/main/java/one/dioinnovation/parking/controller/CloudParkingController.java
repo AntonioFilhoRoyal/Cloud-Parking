@@ -10,6 +10,6 @@ public class CloudParkingController {
 
 	@GetMapping
 	public String home() {
-		return "Bem-vindos";
+		return "<h1 style=text-align:center;color:gray>Bem-vindos</h1>";
 	}
 }
