@@ -1,30 +1,23 @@
-package one.dioinnovation.parking.model;
+package one.dioinnovation.parking.controller.dto;
 
 import java.time.LocalDateTime;
+import com.fasterxml.jackson.annotation.*;
 
-@Entity
-public class Parking {
-	
-	@Id
+//@JsonInclude(JsonInclude.Include.NON_NULL)
+public class ParkingDTO {
+
 	private String id;
 	private String license;
 	private String model;
 	private String state;
 	private String color;
+	
+	@JsonFormat(pattern = "dd/MM/yyyy 00:00")
 	private LocalDateTime entryDate;
+	@JsonFormat(pattern = "dd/MM/yyyy 00:00")
 	private LocalDateTime exitDate;
 	private Double bill;
 	
-	
-	
-	public Parking(String id, String license, String model, String state, String color) {
-	
-	}
-	
-	public Parking() {
-		super();
-
-	}
 	public String getId() {
 		return id;
 	}
@@ -43,7 +36,6 @@ public class Parking {
 	public void setModel(String model) {
 		this.model = model;
 	}
-	
 	public String getState() {
 		return state;
 	}
@@ -74,10 +66,6 @@ public class Parking {
 	public void setBill(Double bill) {
 		this.bill = bill;
 	}
-
-	public void setColor(Parking parkingCreate, Object color2) {
-		// TODO Auto-generated method stub
-		
-	}
-
+	
+	
 }
