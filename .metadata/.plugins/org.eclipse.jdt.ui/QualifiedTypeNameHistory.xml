@@ -14,4 +14,5 @@
     <fullyQualifiedTypeName name="java.util.UUID"/>
     <fullyQualifiedTypeName name="com.dio.parking.cloudparking.service.ParkingService"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="com.dio.parking.cloudparking.controller.dto.ParkingDTO"/>
 </qualifiedTypeNameHistroy>

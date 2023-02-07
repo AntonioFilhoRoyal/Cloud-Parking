@@ -938,3 +938,4 @@
 2023-02-07 00:48:43,106 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
 2023-02-07 00:48:45,631 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-02-07 00:48:45,639 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-07 00:48:45,651 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
