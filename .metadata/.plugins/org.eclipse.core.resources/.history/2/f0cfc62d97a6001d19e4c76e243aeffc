@@ -1,0 +1,8 @@
+package com.dio.parking.cloudparking.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class ParkingService {
+
+}

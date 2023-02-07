@@ -1,0 +1,6 @@
+package com.dio.parking.cloudparking.service;
+
+@Service
+public class ParkingService {
+
+}

@@ -12,6 +12,14 @@ public class Parking {
 	private LocalDateTime exitDate;
 	private double bill;
 	
+	public Parking(String id, String license, String state, String model, String color) {
+		
+	}
+	
+	public Parking() {
+		
+	}
+
 	public String getId() {
 		return id;
 	}

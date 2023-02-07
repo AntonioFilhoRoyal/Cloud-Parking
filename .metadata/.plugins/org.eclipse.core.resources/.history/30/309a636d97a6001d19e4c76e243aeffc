@@ -1,0 +1,12 @@
+package com.dio.parking.cloudparking.service;
+
+import java.util.HashMap;
+import java.util.Map;
+import org.springframework.stereotype.Service;
+import com.dio.parking.cloudparking.model.Parking;
+
+@Service
+public class ParkingService {
+
+	private static Map<String, Parking> parkingMap = new HashMap();
+}
