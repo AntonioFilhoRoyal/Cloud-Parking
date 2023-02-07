@@ -1,0 +1,7 @@
+package com.dio.parking.cloudparking.controller;
+
+@RestController
+@RequestMapping("/parking")
+public class ParkingController {
+
+}

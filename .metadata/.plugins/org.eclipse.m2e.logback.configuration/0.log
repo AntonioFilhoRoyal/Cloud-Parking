@@ -769,3 +769,63 @@
 2023-02-06 22:43:12,593 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
 2023-02-06 23:04:29,050 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-02-06 23:04:29,050 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:04:29,055 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:18:03,170 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:18:03,210 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:18:03,213 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:18:10,144 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:18:10,215 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:18:10,219 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:18:20,522 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:18:20,533 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:18:20,535 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:20:26,314 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:20:26,372 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:20:26,375 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:21:41,098 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:21:41,131 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:21:41,136 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:21:59,001 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:21:59,108 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:21:59,111 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:22:05,747 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:22:05,759 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:22:05,761 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:23:06,991 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:23:07,003 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:23:07,006 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:23:14,563 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:23:14,572 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:23:14,575 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:23:27,017 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:23:27,025 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:23:27,030 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:24:24,346 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:24:24,355 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:24:24,358 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:24:36,602 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:24:36,611 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:24:36,614 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:24:50,207 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:24:50,219 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:24:50,222 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:25:05,475 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:25:05,484 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:25:05,486 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:25:23,342 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:25:23,351 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:25:23,361 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:25:28,759 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:25:28,899 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:25:28,903 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:28:17,044 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:28:17,267 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:28:17,272 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:28:38,339 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:28:38,349 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:28:38,353 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:30:43,228 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:30:43,591 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-06 23:30:43,593 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\anton\OneDrive\Documentos\Minha Pasta\Projetos\BACKEND\Java\Cloud Parking\cloud-parking\src\test\resources
+2023-02-06 23:31:23,528 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-06 23:31:23,551 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
