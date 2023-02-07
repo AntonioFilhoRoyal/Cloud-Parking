@@ -1,0 +1,9 @@
+package com.dio.parking.cloudparking.controller;
+
+
+public class HelloController {
+
+	public String hello() {
+		
+	}
+}

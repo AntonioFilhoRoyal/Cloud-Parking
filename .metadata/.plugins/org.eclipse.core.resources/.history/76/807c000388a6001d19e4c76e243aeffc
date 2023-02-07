@@ -1,0 +1,10 @@
+package com.dio.parking.cloudparking.controller;
+
+
+public class HelloController {
+	
+	@GetMapping
+	public String hello() {
+		return "Hello world!";
+	}
+}
